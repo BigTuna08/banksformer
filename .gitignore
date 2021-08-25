@@ -1,7 +1,7 @@
 .DS_Store
 .ipynb_checkpoints/
 checkpoints/
-data/
+ata/
 generated_data/
 generation_results/
 old_notebooks/
